@@ -1,11 +1,9 @@
-<table width="100%">
 <td width="100%" valign="top" align="center">
   <h3>Lucas Vituri Santarosa, Ph.D.</h1>
   <h3>Professor & Researcher in Water Resources and Geospatial Data</h3>
   <p>
 </td>
 </tr>
-</table>
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-7180-7715" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--7180--7715-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
