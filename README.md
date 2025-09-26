@@ -25,14 +25,14 @@
 
 <ul>
   <li>
-    <strong>Postdoctorado </strong>, 2023<br>
+    <strong>Postdoctorado </strong>,2022 - 2023<br>
     <em>Centro de Estudos Ambientais, Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
     <small>Disertación: "Impactos Antropogénicos y Climáticos en los Procesos Hidrológicos: Un Enfoque Múltiple sobre el Papel de las Aguas Subterráneas en la Resiliencia Hídrica de las Cuencas PCJ y TJ".<br>
     <small>Beca Postdoctoral PROPe 13/2022.</small>
     
   </li>
   <li>
-    <strong>Doctorado (Ph.D.) en Geociencias y Medio Ambiente</strong>, 2017 - 2020<br>
+    <strong>Doctorado (Ph.D.) en Geociencias y Medio Ambiente</strong>, 2017 - 2021<br>
     <em>Instituto de Geociências e Ciências Exatas (IGCE), Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
     <small>Disertación: "Impactos Antropogénicos y Climáticos en los Procesos Hidrológicos: Un Enfoque Múltiple sobre el Papel de las Aguas Subterráneas en la Resiliencia Hídrica de las Cuencas PCJ y TJ".<br>
     Financiamiento: Beca FAPESP, Proceso 17/13576-9.</small>
@@ -50,22 +50,20 @@
 ## 💼 Nombramientos Académicos y Profesionales
 
 <ul>
-  <li><strong>Profesor Asociado</strong>, 2022 - Presente<br><em>Escuela de Agronomía, Pontificia Universidad Católica de Valparaíso (PUCV), Quillota, Chile.</em></li>
-  <li><strong>Profesor (Docente)</strong>, 2021 - 2022<br><em>Universidade Tecnológica do Uruguay (UTEC), Uruguay.</em></li>
-  <li><strong>Profesor (Docente)</strong>, 2017 - 2020<br><em>Fundação Hermínio Ometto (FHO), Brasil.</em></li>
-  <li><strong>Profesor (Docente)</strong>, 2017<br><em>Faculdade de Tecnologia de Piracicaba (FATEP), Brasil.</em></li>
-</ul>
+  <li><strong>Profesor Asociado</strong>, 2024 - Presente<br><em>Escuela de Agronomía, Pontificia Universidad Católica de Valparaíso (PUCV), Quillota, Chile.</em></li>
+  <li><strong>Profesor </strong>, 2021 - 2022<br><em>Universidade Tecnológica do Uruguay (UTEC), Uruguay.</em></li>
+  <li><strong>Profesor </strong>, 2017 - 2020<br><em>Fundação Hermínio Ometto (FHO), Brasil.</em></li>
 
 ## 🔬 Experiencia en Investigación y Proyectos Financiados
 
 <ul>
   <li>
-    <strong>Investigador Principal</strong>, 2021 - 2022<br>
+    <strong>Investigador Principal</strong>, 2022 - 2022<br>
     <em>Proyecto: "Modelamiento hidrológico como herramienta para la gestión sostenible del área de recarga del Acuífero Guaraní en Uruguay".</em><br>
     <small>Financiamiento: Fondo Carlos Vaz Ferreira - Dirección Nacional de Innovación, Ciencia y Tecnología (DlCYT), Uruguay.</small>
   </li>
   <li>
-    <strong>Co-Investigador</strong>, 2020 - 2022<br>
+    <strong>Co-Investigador</strong>, 2021 - 2022<br>
     <em>Proyecto: "Evaluación de la vulnerabilidad intrínseca y riesgo de contaminación del Sistema Acuífero Guaraní en áreas de recarga en Uruguay".</em><br>
     <small>Financiamiento: Agencia Nacional de Investigación e Innovación (ANII), Uruguay.</small>
   </li>
