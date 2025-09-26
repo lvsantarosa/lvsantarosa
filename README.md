@@ -2,13 +2,12 @@
 <tr>
 <td width="70%" valign="top">
   <h1>Lucas Vituri Santarosa, Ph.D.</h1>
-  <h3>Professor & Pesquisador em Recursos Hídricos e Ciência de Dados Geoespacial</h3>
+  <h3>Professor & Pesquisador em Recursos Hídricos e Dados Geoespaciais</h3>
   <p>
     Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetosrelacionados à minha docencia e pesquisa em hidrologia e sensoriamento remoto.
   </p>
 </td>
 <td width="30%" align="center" valign="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=lvsantarosa&show_icons=true&locale=pt-br&theme=tokyonight&rank_icon=github" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvsantarosa&layout=compact&locale=pt-br&theme=tokyonight" alt="Principais Linguagens" />
 </td>
 </tr>
