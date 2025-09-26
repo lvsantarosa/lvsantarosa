@@ -2,7 +2,7 @@
 <tr>
 <td width="100%" valign="top" align="center">
   <h1>Lucas Vituri Santarosa, Ph.D.</h1>
-  <h3>Professor & Pesquisador em Recursos Hídricos e Dados Geoespaciais</h3>
+  <h3>Professor & Researcher in Water Resources and Geospatial Data</h3>
   <p>
 </td>
 </tr>
@@ -10,101 +10,101 @@
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-7180-7715" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--7180--7715-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="mailto:lucasviturisantarosa@gmail.com"><img src="https://img.shields.io/badge/Email-Contate--me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:lucasviturisantarosa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://scholar.google.com/citations?user=cu3ygKsAAAAJ&hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
 <ul>
   <li>
-    <strong>Postdoctorado </strong>, 2022 - 2023<br>
-    <em>Centro de Estudos Ambientais, Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
-    <small>Projeto: "MACHINE LEARNING COMO ABORDAGEM TECNOLÓGICA PARA MONITORAMENTO DOS RECURSOS HÍDRICOS SUBTERRÂNEOS".<br>
-    <small>Beca Postdoctoral PROPe 13/2022.</small>
-    
+    <strong>Postdoctoral Fellowship</strong>, 2022 - 2023<br>
+    <em>Center for Environmental Studies, São Paulo State University (UNESP), Rio Claro, Brazil</em><br>
+    <small>Project: "MACHINE LEARNING AS A TECHNOLOGICAL APPROACH FOR MONITORING GROUNDWATER RESOURCES".</small><br>
+    <small>PROPe Postdoctoral Fellowship Grant 13/2022.</small>
   </li>
   <li>
-    <strong>Doctorado (Ph.D.) en Geociencias y Medio Ambiente</strong>, 2017 - 2021<br>
-    <em>Instituto de Geociências e Ciências Exatas (IGCE), Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
-    <small>Projeto: "Impactos Antropogénicos y Climáticos en los Procesos Hidrológicos: Un Enfoque Múltiple sobre el Papel de las Aguas Subterráneas en la Resiliencia Hídrica de las Cuencas PCJ y TJ".<br>
-    Financiamiento: Beca FAPESP, Proceso 17/13576-9.</small>
+    <strong>Ph.D. in Geosciences and Environment</strong>, 2017 - 2021<br>
+    <em>Institute of Geosciences and Exact Sciences (IGCE), São Paulo State University (UNESP), Rio Claro, Brazil</em><br>
+    <small>Dissertation: "Anthropogenic and Climatic Impacts on Hydrological Processes: A Multiple-Approach on the Role of Groundwater in the Water Resilience of the PCJ and TJ Basins".<br>
+    Funding: FAPESP Ph.D. Grant, Process 17/13576-9.</small>
   </li>
   <li>
-    <strong>Magíster (M.Sc.) en Agronomía (Riego y Drenaje)</strong>, 2014 - 2016<br>
-    <em>Faculdade de Ciências Agrárias (FCA), Universidade Estadual Paulista (UNESP), Botucatu, Brasil</em>
-<small>Projeto: "Mapeamento de níveis freáticos do sistema aquífero bauru (SAB) em área de proteção ambiental em Águas de Santa Bárbara/SP durante o ano hidrológico 2014/15".<br>
-    Financiamiento: Beca FAPESP, Proceso 15/05171-3.</small>
+    <strong>M.Sc. in Agronomy (Irrigation and Drainage)</strong>, 2014 - 2016<br>
+    <em>College of Agricultural Sciences (FCA), São Paulo State University (UNESP), Botucatu, Brazil</em><br>
+    <small>Thesis: "Mapping of Phreatic Levels of the Bauru Aquifer System (BAS) in an Environmental Protection Area in Águas de Santa Bárbara/SP during the 2014/15 Hydrological Year".<br>
+    Funding: FAPESP M.Sc. Grant, Process 15/05171-3.</small>
   </li>
   <li>
-    <strong>Licenciatura en Geografía</strong>, 2009 - 2014<br>
-    <em>Faculdade de Ciências, Tecnologia e Educação (FCTE), Universidade Estadual Paulista (UNESP), Ourinhos, Brasil</em>
-<small>Projeto: "Caracterização física dos solos degradados por erosão hídrica e implantação de técnicas de recuperação no assentamento rural terra nossa/aimorés, municípios de Bauru e Pederneiras/SP".<br>
-    Financiamiento: Beca FAPESP, Proceso 10/18808-6.</small>
+    <strong>Bachelor's Degree in Geography</strong>, 2009 - 2014<br>
+    <em>College of Science, Technology and Education (FCTE), São Paulo State University (UNESP), Ourinhos, Brazil</em><br>
+    <small>Thesis: "Physical Characterization of Soils Degraded by Water Erosion and Implementation of Recovery Techniques in the Terra Nossa/Aimorés Rural Settlement, Municipalities of Bauru and Pederneiras/SP".<br>
+    Funding: FAPESP Undergraduate Research Grant, Process 10/18808-6.</small>
   </li>
 </ul>
 
-## 💼 Experiencia Académicas y Profesionales
+## 💼 Academic and Professional Experience
 
 <ul>
-  <li><strong>Profesor Asociado</strong>, 2024 - Presente<br><em>Escuela de Agronomía, Pontificia Universidad Católica de Valparaíso (PUCV), Quillota, Chile.</em></li>
-  <li><strong>Analista de dados Geoespaespaciais Senior</strong>, 2023 - 2024 <br><em>brCarbon, Piracicaba,  Brasil</em>.</em></li>
-  <li><strong>Profesor </strong>, 2021 - 2022<br><em>Universidade Tecnológica do Uruguay (UTEC), Durazno, Uruguay.</em></li>
-  <li><strong>Profesor </strong>, 2017 - 2020<br><em>Fundação Hermínio Ometto (FHO), Araras, Brasil.</em></li>
+  <li><strong>Associate Professor</strong>, 2024 - Present<br><em>School of Agronomy, Pontifical Catholic University of Valparaíso (PUCV), Quillota, Chile.</em></li>
+  <li><strong>Senior Geospatial Data Analyst</strong>, 2023 - 2024 <br><em>brCarbon, Piracicaba, Brazil.</em></li>
+  <li><strong>Lecturer</strong>, 2021 - 2022<br><em>Technological University of Uruguay (UTEC), Durazno, Uruguay.</em></li>
+  <li><strong>Lecturer</strong>, 2017 - 2020<br><em>Hermínio Ometto Foundation (FHO), Araras, Brazil.</em></li>
+</ul>
 
-## 🔬 Experiencia en Investigación y Proyectos Financiados
+## 🔬 Research Experience and Funded Projects
 
 <ul>
   <li>
-    <strong>Investigador Principal</strong>, 2022 - 2022<br>
-    <em>Proyecto: "Modelamiento hidrológico como herramienta para la gestión sostenible del área de recarga del Acuífero Guaraní en Uruguay".</em><br>
-    <small>Financiamiento: Fondo Carlos Vaz Ferreira - Dirección Nacional de Innovación, Ciencia y Tecnología (DlCYT), Uruguay.</small>
+    <strong>Principal Investigator</strong>, 2022 - 2022<br>
+    <em>Project: "Hydrological Modeling as a Tool for the Sustainable Management of the Guarani Aquifer System Recharge Area in Uruguay".</em><br>
+    <small>Funding: Carlos Vaz Ferreira Fund - National Directorate for Innovation, Science and Technology (DlCYT), Uruguay.</small>
   </li>
   <li>
-    <strong>Co-Investigador</strong>, 2021 - 2022<br>
-    <em>Proyecto: "Evaluación de la vulnerabilidad intrínseca y riesgo de contaminación del Sistema Acuífero Guaraní en áreas de recarga en Uruguay".</em><br>
-    <small>Financiamiento: Agencia Nacional de Investigación e Innovación (ANII), Uruguay.</small>
+    <strong>Co-Investigator</strong>, 2021 - 2022<br>
+    <em>Project: "Evaluation of the Intrinsic Vulnerability and Contamination Risk of the Guarani Aquifer System in Recharge Areas in Uruguay".</em><br>
+    <small>Funding: National Agency for Research and Innovation (ANII), Uruguay.</small>
   </li>
 </ul>
 
-## 💻 Habilidades Técnicas y en Ciencia de Datos
+## 💻 Technical and Data Science Skills
 
-### Lenguajes de Programación y Software
+### Programming Languages and Software
 <ul>
-  <li><b>R:</b> Análisis estadístico, modelamiento hidrológico, visualización de datos, aprendizaje de máquina.</li>
-  <li><b>JavaScript:</b> Desarrollo de scripts para plataformas geoespaciales.</li>
-  <li><b>Google Earth Engine:</b> Procesamiento y análisis de datos satelitales a gran escala.</li>
-  <li><b>GIS:</b> ArcGIS, QGIS para análisis espacial y cartografía.</li>
+  <li><b>R:</b> Statistical analysis, hydrological modeling, data visualization, machine learning.</li>
+  <li><b>JavaScript:</b> Script development for geospatial platforms.</li>
+  <li><b>Google Earth Engine:</b> Large-scale satellite data processing and analysis.</li>
+  <li><b>GIS:</b> ArcGIS, QGIS for spatial analysis and cartography.</li>
 </ul>
 
-### Metodologías y Dominios de Especialización
+### Methodologies and Specialization Domains
 <ul>
-  <li><b>Ciencia de Datos:</b> Análisis de series temporales, modelos de pronóstico, modelos de mezcla bayesianos, geoestadística.</li>
-  <li><b>Teledetección:</b> Análisis de datos de misiones satelitales como GRACE (almacenamiento de agua), Landsat y Sentinel (uso del suelo, evapotranspiración).</li>
-  <li><b>Hidrología Isotópica:</b> Uso de isótopos estables (<sup>18</sup>O, <sup>2</sup>H) como trazadores para determinar la conectividad agua superficial-subterránea y procesos de recarga.</li>
-  <li><b>Modelamiento Hidrológico e Hidrogeológico:</b> Cuantificación de la recarga de acuíferos, modelamiento del flujo base, análisis de la resiliencia hídrica de cuencas.</li>
+  <li><b>Data Science:</b> Time series analysis, forecasting models, Bayesian mixing models, geostatistics.</li>
+  <li><b>Remote Sensing:</b> Analysis of data from satellite missions such as GRACE (water storage), Landsat, and Sentinel (land use, evapotranspiration).</li>
+  <li><b>Isotope Hydrology:</b> Use of stable isotopes (<sup>18</sup>O, <sup>2</sup>H) as tracers to determine surface-groundwater connectivity and recharge processes.</li>
+  <li><b>Hydrological and Hydrogeological Modeling:</b> Quantification of aquifer recharge, baseflow modeling, analysis of basin water resilience.</li>
 </ul>
 
-## 📚 Experiencia Docente y Servicio Profesional
+## 📚 Teaching Experience and Professional Service
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
   
-### Docencia (PUCV, 2022 - Presente)
+### Teaching (PUCV, 2022 - Present)
 <ul>
-  <li>Manejo de Cuencas (AGR 1555-1)</li>
-  <li>Ordenamiento Territorial y SIG (AGR 1545-1)</li>
-  <li>Taller de Título 1 (AGR 602-1)</li>
-  <li>Taller de Título 2 (AGR 612-1)</li>
+  <li>Watershed Management (AGR 1555-1)</li>
+  <li>Territorial Planning and GIS (AGR 1545-1)</li>
+  <li>Thesis Workshop 1 (AGR 602-1)</li>
+  <li>Thesis Workshop 2 (AGR 612-1)</li>
 </ul>
 
 </td>
 <td width="50%" valign="top">
 
-### Consultor 
+### Consulting
 <ul>
   <li>uyuk</li>
   <li>iaeauy</li>
@@ -113,4 +113,3 @@
 </td>
 </tr>
 </table>
-
