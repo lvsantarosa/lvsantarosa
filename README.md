@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="100%" valign="top" align="center">
   <h1>Lucas Vituri Santarosa, Ph.D.</h1>
   <h3>Professor & Pesquisador em Recursos Hídricos e Dados Geoespaciais</h3>
   <p>
