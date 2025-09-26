@@ -19,10 +19,10 @@
 ## 🎓 Education
 
 <ul>
-  <li>
+    <li>
     <strong>Postdoctoral Fellowship</strong>, 2022 - 2023<br>
     <em>Center for Environmental Studies, São Paulo State University (UNESP), Rio Claro, Brazil</em><br>
-    <small>Project: "MACHINE LEARNING AS A TECHNOLOGICAL APPROACH FOR MONITORING GROUNDWATER RESOURCES".</small><br>
+    <small>Project: "Machine learning as a technological approach for monitoring groundwater resources".</small><br>
     <small>PROPe Postdoctoral Fellowship Grant 13/2022.</small>
   </li>
   <li>
