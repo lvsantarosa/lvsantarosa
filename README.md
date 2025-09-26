@@ -1,7 +1,6 @@
 <p align="center">
   <h3>Lucas Vituri Santarosa, Ph.D.</h1>
   <h3>Professor & Researcher in Water Resources and Geospatial Data</h3>
-  <p>
 </td>
 </tr>
 
