@@ -16,9 +16,9 @@
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-7180-7715" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--7180--7715-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="mailto:seu-email-aqui@pucv.cl"><img src="https://img.shields.io/badge/Email-Contate--me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[SEU-LINKEDIN-AQUI]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[SEU-GOOGLE-SCHOLAR-AQUI]" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="mailto:lucasviturisantarosa@gmail.com"><img src="https://img.shields.io/badge/Email-Contate--me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://share.google/LBEQKHnHZf4yEhC8B" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="‪https://share.google/GIQGBHessNjPkzN2v" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
 ---
