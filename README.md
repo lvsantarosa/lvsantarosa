@@ -91,7 +91,6 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
   
 ### Teaching (PUCV, 2022 - Present)
 <ul>
@@ -102,7 +101,6 @@
 </ul>
 
 </td>
-<td width="50%" valign="top">
 
 ### Consulting
 <ul>
