@@ -1,14 +1,9 @@
 <table width="100%">
 <tr>
-<td width="70%" valign="top">
+<td width="100%" valign="top">
   <h1>Lucas Vituri Santarosa, Ph.D.</h1>
   <h3>Professor & Pesquisador em Recursos Hídricos e Dados Geoespaciais</h3>
   <p>
-    Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos relacionados à minha docencia e pesquisa.
-  </p>
-</td>
-<td width="30%" align="center" valign="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvsantarosa&layout=compact&locale=pt-br&theme=tokyonight" alt="Principais Linguagens" />
 </td>
 </tr>
 </table>
