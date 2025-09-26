@@ -46,17 +46,18 @@
   <li>
     <strong>Licenciatura en Geografía</strong>, 2009 - 2014<br>
     <em>Faculdade de Ciências, Tecnologia e Educação (FCTE), Universidade Estadual Paulista (UNESP), Ourinhos, Brasil</em>
-<small>Projeto: "Mapeamento de níveis freáticos do sistema aquífero bauru (SAB) em área de proteção ambiental em Águas de Santa Bárbara/SP durante o ano hidrológico 2014/15".<br>
+<small>Projeto: "Caracterização física dos solos degradados por erosão hídrica e implantação de técnicas de recuperação no assentamento rural terra nossa/aimorés, municípios de Bauru e Pederneiras/SP".<br>
     Financiamiento: Beca FAPESP, Proceso 10/18808-6.</small>
   </li>
 </ul>
 
-## 💼 Nombramientos Académicos y Profesionales
+## 💼 Experiencia Académicas y Profesionales
 
 <ul>
   <li><strong>Profesor Asociado</strong>, 2024 - Presente<br><em>Escuela de Agronomía, Pontificia Universidad Católica de Valparaíso (PUCV), Quillota, Chile.</em></li>
-  <li><strong>Profesor </strong>, 2021 - 2022<br><em>Universidade Tecnológica do Uruguay (UTEC), Uruguay.</em></li>
-  <li><strong>Profesor </strong>, 2017 - 2020<br><em>Fundação Hermínio Ometto (FHO), Brasil.</em></li>
+  <li><strong>Analista de dados Geoespaespaciais Senior</strong>, 2023 - 2024 <br><em>brCarbon, Piracicaba,  Brasil</em>.</em></li>
+  <li><strong>Profesor </strong>, 2021 - 2022<br><em>Universidade Tecnológica do Uruguay (UTEC), Durazno, Uruguay.</em></li>
+  <li><strong>Profesor </strong>, 2017 - 2020<br><em>Fundação Hermínio Ometto (FHO), Araras, Brasil.</em></li>
 
 ## 🔬 Experiencia en Investigación y Proyectos Financiados
 
@@ -108,11 +109,10 @@
 </td>
 <td width="50%" valign="top">
 
-### Revisor de Revistas Científicas
+### Consultor 
 <ul>
-  <li>Environmental Geology</li>
-  <li>Journal of Hazardous Materials</li>
-  <li>Journal of Soil Science and Plant Nutrition</li>
+  <li>uyuk</li>
+  <li>iaeauy</li>
 </ul>
 
 </td>
