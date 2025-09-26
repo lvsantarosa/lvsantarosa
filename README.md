@@ -25,7 +25,7 @@
 
 <ul>
   <li>
-    <strong>Postdoctorado </strong>,2022 - 2023<br>
+    <strong>Postdoctorado </strong>, 2022 - 2023<br>
     <em>Centro de Estudos Ambientais, Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
     <small>Disertación: "MACHINE LEARNING COMO ABORDAGEM TECNOLÓGICA PARA MONITORAMENTO DOS RECURSOS HÍDRICOS SUBTERRÂNEOS".<br>
     <small>Beca Postdoctoral PROPe 13/2022.</small>
