@@ -4,7 +4,7 @@
   <h1>Lucas Vituri Santarosa, Ph.D.</h1>
   <h3>Professor & Pesquisador em Recursos Hídricos e Dados Geoespaciais</h3>
   <p>
-    Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetosrelacionados à minha docencia e pesquisa em hidrologia e sensoriamento remoto.
+    Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos relacionados à minha docencia e pesquisa.
   </p>
 </td>
 <td width="30%" align="center" valign="top">
@@ -17,7 +17,7 @@
   <a href="https://orcid.org/0000-0001-7180-7715" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--7180--7715-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="mailto:lucasviturisantarosa@gmail.com"><img src="https://img.shields.io/badge/Email-Contate--me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://share.google/LBEQKHnHZf4yEhC8B" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="‪https://share.google/GIQGBHessNjPkzN2v" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=cu3ygKsAAAAJ&hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
 ---
