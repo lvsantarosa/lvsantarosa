@@ -27,23 +27,27 @@
   <li>
     <strong>Postdoctorado </strong>, 2022 - 2023<br>
     <em>Centro de Estudos Ambientais, Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
-    <small>Disertación: "MACHINE LEARNING COMO ABORDAGEM TECNOLÓGICA PARA MONITORAMENTO DOS RECURSOS HÍDRICOS SUBTERRÂNEOS".<br>
+    <small>Projeto: "MACHINE LEARNING COMO ABORDAGEM TECNOLÓGICA PARA MONITORAMENTO DOS RECURSOS HÍDRICOS SUBTERRÂNEOS".<br>
     <small>Beca Postdoctoral PROPe 13/2022.</small>
     
   </li>
   <li>
     <strong>Doctorado (Ph.D.) en Geociencias y Medio Ambiente</strong>, 2017 - 2021<br>
     <em>Instituto de Geociências e Ciências Exatas (IGCE), Universidade Estadual Paulista (UNESP), Rio Claro, Brasil</em><br>
-    <small>Disertación: "Impactos Antropogénicos y Climáticos en los Procesos Hidrológicos: Un Enfoque Múltiple sobre el Papel de las Aguas Subterráneas en la Resiliencia Hídrica de las Cuencas PCJ y TJ".<br>
+    <small>Projeto: "Impactos Antropogénicos y Climáticos en los Procesos Hidrológicos: Un Enfoque Múltiple sobre el Papel de las Aguas Subterráneas en la Resiliencia Hídrica de las Cuencas PCJ y TJ".<br>
     Financiamiento: Beca FAPESP, Proceso 17/13576-9.</small>
   </li>
   <li>
     <strong>Magíster (M.Sc.) en Agronomía (Riego y Drenaje)</strong>, 2014 - 2016<br>
     <em>Faculdade de Ciências Agrárias (FCA), Universidade Estadual Paulista (UNESP), Botucatu, Brasil</em>
+<small>Projeto: "Mapeamento de níveis freáticos do sistema aquífero bauru (SAB) em área de proteção ambiental em Águas de Santa Bárbara/SP durante o ano hidrológico 2014/15".<br>
+    Financiamiento: Beca FAPESP, Proceso 15/05171-3.</small>
   </li>
   <li>
     <strong>Licenciatura en Geografía</strong>, 2009 - 2014<br>
     <em>Faculdade de Ciências, Tecnologia e Educação (FCTE), Universidade Estadual Paulista (UNESP), Ourinhos, Brasil</em>
+<small>Projeto: "Mapeamento de níveis freáticos do sistema aquífero bauru (SAB) em área de proteção ambiental em Águas de Santa Bárbara/SP durante o ano hidrológico 2014/15".<br>
+    Financiamiento: Beca FAPESP, Proceso 10/18808-6.</small>
   </li>
 </ul>
 
