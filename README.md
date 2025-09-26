@@ -17,7 +17,6 @@
 
 ## 🎓 Education
 
-<ul>
     <li>
     <strong>Postdoctoral Fellowship</strong>, 2022 - 2023<br>
     <em>Center for Environmental Studies, São Paulo State University (UNESP), Rio Claro, Brazil</em><br>
