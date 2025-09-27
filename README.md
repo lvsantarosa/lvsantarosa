@@ -88,20 +88,34 @@
 <table width="100%">
 <tr>
   
-### Teaching (PUCV, 2022 - Present)
+### Teaching (PUCV, 2024 - Present)
 <ul>
-  <li>Watershed Management (AGR 1555-1)</li>
-  <li>Territorial Planning and GIS (AGR 1545-1)</li>
-  <li>Thesis Workshop 1 (AGR 602-1)</li>
-  <li>Thesis Workshop 2 (AGR 612-1)</li>
+  <li>Watershed Management</li>
+  <li>Territorial Planning and GIS</li>
+  <li>Thesis Workshop 1</li>
+  <li>Thesis Workshop 2</li>
+</ul>
+
+### Teaching (UNESP, 2022 - 2023)
+<ul>
+  <li>Statistics</li>
+  <li>Remote Sensing</li>
+  <li>Analysis of hydrological and climatic data obtained by Orbital Sensors (Postgraduate)</li>
+</ul>
+
+### Teaching (UTEC, 2021 - 2022)
+<ul>
+  <li>Hydrology and Hydrogeology</li>
+  <li>Geostatistics</li>
 </ul>
 
 </td>
 
-### Consulting
+### Technical Colaboration
 <ul>
-  <li>uyuk</li>
-  <li>iaeauy</li>
+  <li>Studying the Effects of Climate Change and Variability on Water Resources in Uruguay, British Embassy Montevideo (2025-2026)</li
+                                                                                                                                    
+  <li>Assessing the Hydrological Behaviour of Wetlands through the Use of Isotopic and Hydrogeochemical Techniques, Uruguay, IAEA project URU7007 (2023)</li>
 </ul>
 
 </td>
