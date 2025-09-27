@@ -113,7 +113,7 @@
 
 ### Technical Colaboration
 <ul>
-  <li>Studying the Effects of Climate Change and Variability on Water Resources in Uruguay, British Embassy Montevideo (2025-2026)</li
+  <li>Studying the Effects of Climate Change and Variability on Water Resources in Uruguay, British Embassy Montevideo (2025-2026)</li>
                                                                                                                                     
   <li>Assessing the Hydrological Behaviour of Wetlands through the Use of Isotopic and Hydrogeochemical Techniques, Uruguay, IAEA project URU7007 (2023)</li>
 </ul>
